@@ -1,5 +1,7 @@
 # Generate Personal Access Token
 
+IMPORTANT To be able to use this endpoint you must set the ENV VAR (CREATE_TOKENS_FOR_USERS=true).
+
 Generate Personal Access Token. Requires `create-personal-access-tokens` permission.
 
 | URL | Requires Auth | HTTP Method |
